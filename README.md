@@ -9,22 +9,22 @@ npm install lorem-squarepants
 ```
 
 ## Usage
-# Import the module
+### Import the module
 ```javascript
 const loremSquarepants = require('lorem-squarepants');
 ```
 
-# Generate Paragraphs
+### Generate Paragraphs
 ```javascript
 const paragraphs = loremSquarepants.generateParagraphs(3); // Generate 3 paragraphs
 ```
 
-# Generate Sentences
+### Generate Sentences
 ```javascript
 const sentences = loremSquarepants.generateSentences(5); // Generate 5 sentences
 ```
 
-# Generate Words
+### Generate Words
 ```javascript
 const words = loremSquarepants.generateWords(10); // Generate 10 words
 ```
