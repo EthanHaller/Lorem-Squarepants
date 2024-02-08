@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "A Lorem Ipsum generator full of quotes from the SpongeBob SquarePants show!",
   "main": "index.js",
+  "keywords": ["Lorem Ipsum", "SpongeBob SquarePants", "SpongeBob", "Patrick", "lorem", "ipsum", "quotes", "generator"],
   "scripts": {
     "test": "node test.js"
   },
