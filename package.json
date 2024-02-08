@@ -1,7 +1,7 @@
 {
   "name": "lorem-squarepants",
   "version": "1.0.0",
-  "description": "A Lorem Ipsum generator full of quotes from the Spongebob Squarepants show!",
+  "description": "A Lorem Ipsum generator full of quotes from the SpongeBob SquarePants show!",
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
