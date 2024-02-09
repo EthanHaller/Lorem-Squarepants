@@ -56,3 +56,6 @@ module.exports = {
 	generateSentences,
 	generateWords,
 }
+
+
+console.log(generateParagraphs(10))
